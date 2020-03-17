@@ -24,6 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/daisy/proprietary/vendor/firmware/goodix_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_firmware.bin \
     vendor/xiaomi/daisy/proprietary/etc/firmware/ice40.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/ice40.bin \
     vendor/xiaomi/daisy/proprietary/etc/init/perfservice.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/perfservice.rc \
+    vendor/xiaomi/daisy/proprietary/vendor/lib/camera.msm8953.shim.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.msm8953.shim.so \
     vendor/xiaomi/daisy/proprietary/etc/init/wfdservice.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/wfdservice.rc \
     vendor/xiaomi/daisy/proprietary/etc/perf/whitelistedapps.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/perf/whitelistedapps.xml \
     vendor/xiaomi/daisy/proprietary/etc/permissions/audiosphere.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/audiosphere.xml \
